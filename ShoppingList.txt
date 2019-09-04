@@ -1,5 +1,4 @@
-Milk
-Milk
+
 Milk (he needs some milk!!)
 Coffe
 Tea
@@ -7,7 +6,7 @@ Cereals
 Tea
 Bread
 Onion
-Flourr
+Flour
 Carrot
-TOeamato
+Tamato
 Kabanosy
