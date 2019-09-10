@@ -6,7 +6,3 @@ Cereals
 Tea
 Bread
 Onion
-Flour
-Carrot
-Tamato
-Kabanosy
